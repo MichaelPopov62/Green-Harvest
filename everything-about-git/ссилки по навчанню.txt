@@ -1,0 +1,146 @@
+
+https://www.loom.com/share/9a0baa6154ca42c6b292279d5c0dd5d7                            -інструкція як здовати домашку
+https://www.loom.com/share/495fefad11dd41afa5eba89c0e68b3d4                               - як додавати плагіни в фігму
+https://www.loom.com/share/b1d5954265f14f2e9f75f663c7ed23a5                               додаткова інструкція для работи на GIT Hube
+https://www.loom.com/share/1164f1d17cb34e778328c7214c3fbc69                              створення репозитарія для 2 ДЗ
+https://prnt.sc/ZA9V3j3AUt1r                                                                                                          обовьязкові linki при 
+
+https://validator.w3.org/                                                                                                                      -  валідатор
+https://validator.w3.org/#validate_by_input                                                                                 - валідатор для провірки тільки написаного кода
+https://jigsaw.w3.org/css-validator/validator                                                                                валідатор кода 
+  https://jigsaw.w3.org/css-validator/validator                                                                               валідатор кода CSS  
+ https://typatest.pp.ua/pages/Onlajn-trenazher-HTML-i-CSS.html                                      тренажер по html css
+https://developer.mozilla.org/en-US/docs/Web/CSS                                                                    спеціфікація по CSS                                                                                                                                     
+
+
+ 
+https://www.loom.com/share/ec6066944e6447999cbb18f426e83baa                               - прекурс
+https://github.com/YK911/basic-dictionary?tab=readme-ov-file                                                словник для початкивця розробника базових  термінів 
+https://github.com/YK911/basic-dictionary                                                                                        словник найчастіше применяємих слів
+
+https://squoosh.app/                                                                                                                                     - ссилка як оптимізовати фото
+https://www.youtube.com/watch?v=upLbu1PqZUk                                                                           работа с  изображением вставляем
+https://www.youtube.com/watch?v=cDuHi-JVrTg&t=22s                                                           обработка изображения
+
+
+https://www.youtube.com/watch?v=-e2j7Jc3OzQ                                                                             =оформлення ссилок
+https://www.youtube.com/watch?v=fvK4MYaO6yk&t=252s                                                        ссилки внутри страници 
+https://www.youtube.com/watch?v=hfAo1l9r5zg&t=346s                                                              ссилкі внутрі страніци
+https://www.youtube.com/watch?v=w-5hrXWFBYM&t=79s                                                         ссилкі на файли
+https://www.youtube.com/watch?v=hfAo1l9r5zg&t=458s                                                              ссілки на другие страниці
+
+                                                                                                                         CSS 
+
+
+
+
+https://prnt.sc/Hf7VaTZAsEQa                                                                                                                                                                                    Зразок ретінізації фонового зображення 
+https://www.loom.com/share/8c48d3f9818a4ad081c2c6ac3ddfd2ff                                                                                                                Лайфхак, як прописати шлях в srcset 
+https://github.com/goitacademy-lectures/fson-114/tree/main/module-02                                                                                                            репозиторий ментора 1
+   https://github.com/riko1212/fs-116                                                                                                                                                                                 репозиторий ментора 2
+https://github.com/ArtGoIt/team-116-18                                                                                                                                                                          репозиторий ментора практика
+https://gist.github.com/SergeyKorobka/031b7e6d986052b13acbce17d52852c9                                                                                           репозиторий ментора	  
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/                                                                                                                                              учебник по Flexbox
+
+https://www.youtube.com/watch?v=zL5sLkVlagQ&list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg&index=16                        -созданіе форм
+https://www.youtube.com/watch?v=h5cTL4OwJPc&list=PL1NBhQGGj46bA6cFVixqblUDXxso1ctAg&index=17                    -создание форм обратной связи
+https://cdnjs.com/libraries/modern-normalize                                                                                                                                                                 ссилка на нормализатор стиля
+                                                                
+ https://www.youtube.com/watch?v=6nKQsgiNIFc                                                                                                                                                      плагін який опрееделяет шрифти в макете 
+ https://codepen.io/mpadalko/pen/JjvvMoE?editors=1100                                                                                                                                          изменение цвета плейсхолдера при фокусе                                                               
+                                                           
+  
+ https://frontend30.com/css-selectors-cheatsheet/                                                                                                                                                       селектор шпаргалка 
+https://www.loom.com/share/ff8b3685b0fa4ea193505757e923476f                                                                                                               стілізація сторінки  
+https://github.com/sindresorhus/modern-normalize                                                                                                                                                  нормализатор для стилей box-sizing
+https://htmlreference.io/                                                                                                                                                                                                    ссілка на определение типа єлемента  (блоковій или строчний)  https://necolas.github.io/normalize.css/ 
+ https://gist.github.com/luxplanjay/6f6936b1bba7afe006fa9317b07b6045                                                                                              uxplanjay/visually-hidden.css  клас для приховування єлемента на сторінке
+https://marketplace.visualstudio.com/items?itemName=diz.ecsstractor-port                                                                                     плагін для швидкого перносу кода в класси    
+https://youtu.be/I3BY-U33GWo                                                                                                                                                                      урок 1 по HTML
+https://youtu.be/EBbDdYplnvA                                                                                                                                                                        урок 1 по HTML
+https://youtu.be/Nj4r1_I4qbU                                                                                                                                                                             урок 1 HTML
+
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039094/lessons                                                                               урок 2 по CSS
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039094/lessons                                                                               урок 2 по CSS
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039117/lessons                                                                                 урок 3 по CSS
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039117/lessons                                                                                  урок 3 по CSS     
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039117/lessons                                                                                   практика с ментором4
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039127/lessons                                                                                  урок 4по CSS   
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039127/lessons                                                                                   урок 4по CSS 
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039136/lessons                                                                                    практика с ментором5 
+ https://www.edu.goit.global/uk/learn/27732758/17039071/17039136/lessons                                                                                   урок 5по CSS 
+https://www.edu.goit.global/uk/learn/27732758/17039071/17039136/lessons                                                                                     урок 5по CSS 
+
+
+https://www.loom.com/share/05e7818e710448508fa4bd070fba1f8e                                                                                                      практика разбору структури хедера
+https://www.loom.com/share/39ec37a9428242d2bb81a5672d67bf3a                                                                                                   по формулу calc
+https://www.loom.com/share/ff8b3685b0fa4ea193505757e923476f                                                                                                        розбір стилів по текстовому контенту
+https://www.loom.com/share/76d6285349c44d47a5284aca6728b0a8                                                                                                   розбір позиц єлементів в хедері
+https://www.loom.com/share/392d11c7d2f9453089810fb0c308529d                                                                                                      розбір роботи ховера
+https://css-tricks.com/almanac/properties/p/position/                                                                                                                                         позіціонірованіе елементів
+https://www.loom.com/share/a400d7ef8dfe4c10b402967c38a5d5a3                                                                                                        реализація псевдоелемента
+https://www.loom.com/share/1f948ffc8ea849529be1f2a3bca88142                                                                                                          експорт іконок і додаванн в спрайт+ снипелд для svg
+https://www.loom.com/share/57e2b4fc812a469587eb3884ad2352c1                                                                                                       добавление новых иконок в существующий спрайт
+https://habr.com/ru/articles/465839/                                                                                                                                                                  все що потрібно знати проCSS маржини
+https://www.loom.com/share/d0dbb05b78904333a265f9b094ae46ee                                                                                                   як виявити розмір контейнера на макеті
+                                                                                                       работа с репозиторием
+
+https://www.loom.com/share/b1d5954265f14f2e9f75f663c7ed23a5                                                                                                         - ссілка по GIT s CITHub
+https://www.youtube.com/watch?v=wFY5HVuQBgw                                                                                                                                        про работу с репозитарием через терминал
+https://www.youtube.com/watch?v=Ic-pOK4pqOk                                                                                                                                               инструкция роботи з бландером Vite
+
+
+
+// HTML
+<h2 class="visually-hidden">Title<h2>
+                                                                                                                                                                                                                                         патерн візуал -хіден для прихвування заголовка
+// CSS
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
+// CSS                                                                                                                                                                                                                             оформлення контейнера внутрі кожноі секціі
+.container {
+  width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+// HTML
+<section> 
+  <div class="container"> 
+    контент секції 
+  </div> 
+</section>
+https://css-tricks.com/fighting-the-space-between-inline-block-elements/                                                                                                               особливисті інлайн блок елементів
+ https://css-tricks.com/snippets/css/a-guide-to-flexbox/                                                                                                                                               посібник по флексбоксам 
+https://flexboxfroggy.com/#uk                                                                                                                                                                                           гра по флексбоксам
+https://mastery.games/flexboxzombies/                                                                                                                                                                           гра по флексбоксам
+https://nthchild.kawalekkodu.pl/en/                                                                                                                                                                                 генератор селекторов? как пользоваться
+https://www.loom.com/share/72c771a969e446acab6692cd52543dd2                                                                                                                замечания по последнему дз
+https://www.loom.com/share/ec6066944e6447999cbb18f426e83baa                                                                                                     	    предкурс выполненин разъяснение
+https://www.loom.com/share/05e7818e710448508fa4bd070fba1f8e                                                                                                                     ДЗ-1 разбор хедера
+https://www.loom.com/share/ff8b3685b0fa4ea193505757e923476f                                                                                                                    ДЗ-2 разбор текстового контента
+https://www.loom.com/share/76d6285349c44d47a5284aca6728b0a8                                                                                                                ДЗ-3 разбор геометрия и позиционирование
+https://www.loom.com/share/a400d7ef8dfe4c10b402967c38a5d5a3                                                                                                                   ДЗ- 4 реализация 
+https://www.loom.com/share/61ec4e9119e34240949a90c4dd8bea21                                                                                                       	    ДЗ-5 реализация модального окна
+https://www.loom.com/share/bcac119269fe463680e3aad72163d33d?asg_reaction=true&reaction=+1&video_time_stamp=1763  ДЗ -6 адаптивна верстка 
+https://www.loom.com/share/bcac119269fe463680e3aad72163d33d                                                                                                                    адаптивная верстка
+                                                                                      
+                                                                                                                     HTML
+https://docs.emmet.io/cheat-sheet/                                                                                                                                                                  комбінаціі Emmit
+ https://developer.mozilla.org/ru/docs/Web/HTML                                                                                                                                   специфікація HTMl
+https://caninclude.glitch.me/                                                                                                                                                                             сервіс по пенревірке правільності вкладення тегі
+
+
+
+                                                                                              
+                                                         
